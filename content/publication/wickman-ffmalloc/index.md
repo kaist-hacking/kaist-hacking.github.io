@@ -36,6 +36,29 @@ projects: []
 publishDate: '2020-11-21T07:51:46.556422Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: "Memory-unsafe languages are widely used to implement critical systems like\
+  \ kernels and browsers, leading to thousands of memory safety issues every year.\
+  \ A use-after-free bug is a temporal memory error where the program accidentally\
+  \ visits a freed memory location. Recent studies show that useafter-free is one\
+  \ of the most exploited memory vulnerabilities. Unfortunately, previous efforts\
+  \ to mitigate use-after-free bugs are not widely deployed in real-world programs\
+  \ due to either inadequate accuracy or high performance overhead.\n\nIn this paper,\
+  \ we propose to resurrect the idea of one-time allocation (OTA) and provide a practical\
+  \ implementation with efficient execution and moderate memory overhead. With onetime\
+  \ allocation, the memory manager always returns a distinct memory address for each\
+  \ request. Since memory locations are not reused, attackers cannot reclaim freed\
+  \ objects, and thus cannot exploit use-after-free bugs. We utilize two techniques\
+  \ to render OTA practical: batch page management and the fusion of bump-pointer\
+  \ and fixed-size bins memory allocation styles. Batch page management helps reduce\
+  \ the number of system calls which negatively impact performance, while blending\
+  \ the two allocation methods mitigates the memory overhead and fragmentation issues.\
+  \ We implemented a prototype, called FFmalloc, to demonstrate our techniques. We\
+  \ evaluated FFmalloc on widely used benchmarks and real-world large programs. FFmalloc\
+  \ successfully blocked all tested useafter-free attacks while introducing moderate\
+  \ overhead. The results show that OTA can be a strong and practical solution to\
+  \ thwart use-after-free threats.\n"
 publication: '*Proceedings of the 30th USENIX Security Symposium (Security)*'
+url_slides: pubs/2021/wickman:ffmalloc-slides.pdf
+url_paper: pubs/2021/wickman:ffmalloc.pdf
+url_code: https://github.com/bwickman97/ffmalloc
 ---
