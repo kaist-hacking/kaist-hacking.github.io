@@ -1,19 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'HardsHeap: A Universal and Extensible Framework for Evaluating Secure Allocators
-  (to appear)'
+title: 'DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices (to
+  appear)'
 subtitle: ''
 summary: ''
 authors:
+- CheolJun Park
+- Sangwook Bae
+- BeomSeok Oh
+- Jiho Lee
+- Eunkyu Lee
 - Insu Yun
-- Woosun Song
-- Seunggi Min
-- Taesoo Kim
+- Yongdae Kim
 tags: []
 categories: []
-date: '2021-11-01'
-lastmod: 2021-08-23T22:17:34+09:00
+date: '2022-08-01'
+lastmod: 2021-11-03T10:46:10+09:00
 featured: false
 draft: false
 
@@ -31,11 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-23T13:17:34.815225Z'
+publishDate: '2021-11-03T01:46:10.827097Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 28th ACM Conference on Computer and Communications
-  Security (CCS)*'
-url_code: https://github.com/kaist-hacking/HardsHeap
+publication: '*Proceedings of the 31th USENIX Security Symposium (Security)*'
 ---
