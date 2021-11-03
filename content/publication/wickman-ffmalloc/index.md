@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Preventing Use-After-Free Attacks with Fast Forward Allocation (to appear)
+title: Preventing Use-After-Free Attacks with Fast Forward Allocation
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2021-08-01'
-lastmod: 2020-11-21T12:00:34+09:00
+lastmod: 2021-11-03T10:48:46+09:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:46.556422Z'
+publishDate: '2021-11-03T01:48:46.526125Z'
 publication_types:
 - '0'
 abstract: "Memory-unsafe languages are widely used to implement critical systems like\

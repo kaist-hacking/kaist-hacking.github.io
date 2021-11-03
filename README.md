@@ -1,6 +1,9 @@
 # kaist-hacking.github.io
 
 ## Setup environment
+1. Install hugo (https://gohugo.io/getting-started/installing/)
+
+2.
 ```sh
 $ virtualenv venv
 $ source venv/bin/activate
