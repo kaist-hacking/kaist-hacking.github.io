@@ -6,8 +6,8 @@ title: 'BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifi
 subtitle: ''
 summary: ''
 authors:
-- Eunsoo Kim*
-- Dongkwan Kim*
+- Eunsoo Kim
+- Dongkwan Kim
 - Cheoljun Park
 - Insu Yun
 - Yongdae Kim
@@ -61,4 +61,7 @@ publication: '*Proceedings of the 2021  Annual Network and Distributed System Se
 url_slides: pubs/2021/kim:basespec-slides.pdf
 url_paper: pubs/2021/kim:basespec.pdf
 url_code: https://github.com/SysSec-KAIST/BaseSpec
+author_notes:
+- Equal contribution
+- Equal contribution
 ---

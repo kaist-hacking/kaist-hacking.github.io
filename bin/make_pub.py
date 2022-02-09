@@ -49,15 +49,31 @@ def create_meta_fields(entry):
     meta_fields = {}
     for key in META_FIELD_MAPPING.keys():
         if entry.get(key):
-            meta_fields[key] = entry.get(key)
+            value = entry.get(key)
+            page_key = META_FIELD_MAPPING[key]
             del entry[key]
+
+            if page_key:
+                meta_fields[page_key] = value
+
+    # Support co-first authors
+    authors = entry['author'].split(' and ')
+    author_notes = []
+    for i, author in enumerate(authors):
+        if author.endswith("*"):
+            assert(i == len(author_notes))
+            author_notes.append('Equal contribution')
+            authors[i] = author[:-1] # Remove *
+
+    if author_notes:
+        meta_fields['author_notes'] = author_notes
+        entry['author'] = ' and '.join(authors)
+
     return meta_fields
 
 def update_meta_fields(page, meta_fields):
     for key, value in meta_fields.items():
-        page_key = META_FIELD_MAPPING[key]
-        if page_key is not None:
-            page.fm[page_key] = value
+        page.fm[key] = value
 
 def cleanup_page(entry):
     # TODO: Can we make incremental updates?
