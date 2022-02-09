@@ -11,8 +11,10 @@ $ pip install -r ./requirements.txt
 ```
 
 ## Add a new publication
-```sh
-# update assets/pubs/{conf, pub}.bib
+1. Update `assets/pubs/{conf, pub}.bib`.
+2. Add `${paper}-abstract.md`, `${paper}-slides.pdf`, and `${paper}.pdf`
+3. Then, run
+```bash
 $ ./bin/make_pub.py
 ```
 
