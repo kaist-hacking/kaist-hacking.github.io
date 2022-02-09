@@ -13,7 +13,6 @@ authors:
 tags: []
 categories: []
 date: '2017-07-01'
-lastmod: 2020-11-21T12:00:35+09:00
 featured: false
 draft: false
 
@@ -31,7 +30,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:48.100293Z'
 publication_types:
 - '0'
 abstract: "AVPASS is a tool for leaking the detection model \nof Android antivirus\
@@ -55,6 +53,6 @@ abstract: "AVPASS is a tool for leaking the detection model \nof Android antivir
   \ \ntest data, to enable researchers to replicate the \nresearch on their own.\n\
   \n"
 publication: '*Black Hat USA Briefings (Black Hat USA)*'
-url_code: https://github.com/sslab-gatech/avpass
 url_slides: pubs/2017/jung:avpass-slides.pdf
+url_code: https://github.com/sslab-gatech/avpass
 ---

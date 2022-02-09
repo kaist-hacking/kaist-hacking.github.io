@@ -16,7 +16,6 @@ authors:
 tags: []
 categories: []
 date: '2016-05-01'
-lastmod: 2020-11-21T12:00:36+09:00
 featured: false
 draft: false
 
@@ -34,7 +33,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:49.155583Z'
 publication_types:
 - '0'
 abstract: "Memory corruption vulnerabilities are the root cause of many\nmodern attacks.\
@@ -56,7 +54,7 @@ abstract: "Memory corruption vulnerabilities are the root cause of many\nmodern 
   \ imposes low performance overhead, and allows\nus to create more elegant and more\
   \ secure solutions.\n"
 publication: '*Proceedings of the 37th IEEE Symposium on Security and Privacy (Oakland)*'
-url_code: https://github.com/sslab-gatech/hdfi
 url_slides: pubs/2016/song:hdfi-slides.pdf
 url_paper: pubs/2016/song:hdfi.pdf
+url_code: https://github.com/sslab-gatech/hdfi
 ---

@@ -15,7 +15,6 @@ authors:
 tags: []
 categories: []
 date: '2018-10-01'
-lastmod: 2020-11-21T12:00:35+09:00
 featured: false
 draft: false
 
@@ -33,7 +32,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:47.388526Z'
 publication_types:
 - '0'
 abstract: "Debugging software failures in deployed systems is important because they\n\

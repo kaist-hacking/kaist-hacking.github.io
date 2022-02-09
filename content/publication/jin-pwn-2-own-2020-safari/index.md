@@ -12,7 +12,6 @@ authors:
 tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2020-11-21T12:00:34+09:00
 featured: false
 draft: false
 
@@ -30,7 +29,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:46.973052Z'
 publication_types:
 - '0'
 abstract: "Compromising a kernel through a browser is the ultimate goal for offensive\
@@ -46,6 +44,6 @@ abstract: "Compromising a kernel through a browser is the ultimate goal for offe
   \ and in introducing their mitigations. Moreover, we will introduce a new technique\
   \ that reliably exploits a TOCTOU vulnerability in macOS.\n\n"
 publication: '*Black Hat USA Briefings (Black Hat USA)*'
-url_code: https://github.com/sslab-gatech/pwn2own2020
 url_slides: pubs/2020/jin:pwn2own2020-safari-slides.pdf
+url_code: https://github.com/sslab-gatech/pwn2own2020
 ---

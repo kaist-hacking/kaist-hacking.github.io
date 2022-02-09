@@ -13,7 +13,6 @@ authors:
 tags: []
 categories: []
 date: '2018-08-01'
-lastmod: 2020-11-21T12:00:35+09:00
 featured: false
 draft: false
 
@@ -31,7 +30,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:47.756236Z'
 publication_types:
 - '0'
 abstract: "Recently, hybrid fuzzing has been proposed to address the limitations of\n\
@@ -55,7 +53,7 @@ abstract: "Recently, hybrid fuzzing has been proposed to address the limitations
   \ Lepton, ffmpeg,\nand OpenJPEG, which have already been intensively tested by the\n\
   state-of-the-art fuzzers, AFL and OSS-Fuzz.\n"
 publication: '*Proceedings of the 27th USENIX Security Symposium (Security)*'
-url_code: https://github.com/sslab-gatech/qsym
 url_slides: pubs/2018/yun:qsym-slides.pdf
 url_paper: pubs/2018/yun:qsym.pdf
+url_code: https://github.com/sslab-gatech/qsym
 ---

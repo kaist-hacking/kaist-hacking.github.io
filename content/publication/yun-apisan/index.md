@@ -14,7 +14,6 @@ authors:
 tags: []
 categories: []
 date: '2016-08-01'
-lastmod: 2020-11-21T12:00:35+09:00
 featured: false
 draft: false
 
@@ -32,7 +31,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:48.800786Z'
 publication_types:
 - '0'
 abstract: "API misuse is a well-known source of bugs. Some of them (e.g., incorrect\
@@ -50,7 +48,7 @@ abstract: "API misuse is a well-known source of bugs. Some of them (e.g., incorr
   \ APISAN to 92 million lines of code, including Linux\nKernel, and OpenSSL, found\
   \ 76 previously unknown bugs, and provided patches for\nall the bugs.\n"
 publication: '*Proceedings of the 25th USENIX Security Symposium (Security)*'
-url_code: https://github.com/sslab-gatech/apisan
 url_slides: pubs/2016/yun:apisan-slides.pdf
 url_paper: pubs/2016/yun:apisan.pdf
+url_code: https://github.com/sslab-gatech/apisan
 ---

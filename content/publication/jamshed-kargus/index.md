@@ -16,7 +16,6 @@ authors:
 tags: []
 categories: []
 date: '2012-10-01'
-lastmod: 2020-11-21T12:00:36+09:00
 featured: false
 draft: false
 
@@ -34,7 +33,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-21T07:51:49.681831Z'
 publication_types:
 - '0'
 abstract: ''
@@ -42,4 +40,5 @@ publication: '*Proceedings of the 19th ACM Conference on Computer and Communicat
   Security (CCS)*'
 url_slides: pubs/2012/jamshed:kargus-slides.pdf
 url_paper: pubs/2012/jamshed:kargus.pdf
+url_web: https://shader.kaist.edu/kargus/
 ---

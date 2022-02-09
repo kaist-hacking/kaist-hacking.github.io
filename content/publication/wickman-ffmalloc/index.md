@@ -15,7 +15,6 @@ authors:
 tags: []
 categories: []
 date: '2021-08-01'
-lastmod: 2021-12-13T11:54:07+09:00
 featured: false
 draft: false
 
@@ -33,7 +32,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-13T02:54:07.892217Z'
 publication_types:
 - '0'
 abstract: "Memory-unsafe languages are widely used to implement critical systems like\
