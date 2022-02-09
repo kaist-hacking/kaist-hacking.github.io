@@ -14,4 +14,5 @@ highlight_name: true
 user_groups:
 - Master Students
 
+external_link: https://candymate.tistory.com/
 ---
