@@ -18,7 +18,7 @@ _ROOT = os.path.dirname(__file__)
 META_FIELD_MAPPING = {
     'www-url': 'url_web',
     'www-git': 'url_code',
-    'award': None
+    'award': 'award'
 }
 
 def read_conf():
@@ -56,6 +56,10 @@ def create_meta_fields(entry):
 
             if page_key:
                 meta_fields[page_key] = value
+
+            # Make award bold
+            if page_key == 'award':
+                meta_fields[page_key] = f"**{value}**"
 
     # Support co-first authors
     authors = entry['author'].split(' and ')

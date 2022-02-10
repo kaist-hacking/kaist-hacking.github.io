@@ -24,7 +24,7 @@ Please add your profile in `content/author`.
 ## Add news
 Modify `content/home/news.md`.
 
-## Make it public
+## Make it public to github
 **Check again before you run this command**
 ```
 $ ./publish.sh

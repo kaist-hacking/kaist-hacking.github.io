@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2018-08-01'
-lastmod: 2022-02-10T09:57:08+09:00
+lastmod: 2022-02-10T11:34:02+09:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-10T00:57:08.638273Z'
+publishDate: '2022-02-10T02:34:02.399473Z'
 publication_types:
 - '0'
 abstract: "Recently, hybrid fuzzing has been proposed to address the limitations of\n\
@@ -58,4 +58,5 @@ publication: '*Proceedings of the 27th USENIX Security Symposium (Security)*'
 url_slides: pubs/2018/yun:qsym-slides.pdf
 url_paper: pubs/2018/yun:qsym.pdf
 url_code: https://github.com/sslab-gatech/qsym
+award: '**Distinguished Paper Award**'
 ---
