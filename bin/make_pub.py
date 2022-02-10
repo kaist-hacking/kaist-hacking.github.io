@@ -3,6 +3,7 @@ from shutil import which
 from pathlib import Path
 
 import os
+import copy
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
@@ -80,6 +81,13 @@ def cleanup_page(entry):
     pub_dir = 'publication'
     bundle_path = f"content/{pub_dir}/{slugify(entry['ID'])}"
     markdown_path = os.path.join(bundle_path, "index.md")
+
+    if os.path.exists(bundle_path):
+        old_page = EditableFM(Path(bundle_path))
+        old_page.load('index.md')
+    else:
+        old_page = None
+
     if os.path.exists(markdown_path):
         os.unlink(markdown_path)
 
@@ -87,12 +95,40 @@ def cleanup_page(entry):
     if os.path.exists(cite_path):
         os.unlink(cite_path)
 
+    return old_page
+
+def adjust_page(page, old_page):
+    """
+    Remove time-related fields for better version management
+    """
+    TIME_FIELDS = ['publishDate', 'lastmod']
+
+    if old_page is None:
+        # Skip a newly created page.
+        return
+
+    fm = copy.copy(page.fm)
+    old_fm = copy.copy(old_page.fm)
+
+    for field in TIME_FIELDS:
+        del fm[field]
+        del old_fm[field]
+
+    # Assume that page is equal if their fm and content are equal.
+    if fm != old_fm:
+        return
+
+    if page.content != old_page.content:
+        return
+
+    # Patch a current page with old one
+    for field in TIME_FIELDS:
+        page.fm[field] = old_page.fm[field]
+
 def create_page(entry):
-    cleanup_page(entry)
+    old_page = cleanup_page(entry)
     page = parse_bibtex_entry(entry, overwrite=True)
-    # Delete 'publishDate' that changes our page even without any modification
-    del page.fm["publishDate"]
-    del page.fm["lastmod"]
+    adjust_page(page, old_page) 
     return page
 
 def update_resources(page, entry):
