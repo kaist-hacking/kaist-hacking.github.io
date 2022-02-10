@@ -5,7 +5,7 @@ if [ ! -e public/.git ]; then
   git clone -b publish git@github.com:kaist-hacking/kaist-hacking.github.io.git public
 fi
 
-hugo
+make
 
 cd public
 git add .
