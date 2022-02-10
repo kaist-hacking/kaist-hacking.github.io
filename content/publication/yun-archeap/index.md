@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2022-02-10T09:56:03+09:00
+lastmod: 2022-02-10T09:57:08+09:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-10T00:56:03.876992Z'
+publishDate: '2022-02-10T00:57:08.371855Z'
 publication_types:
 - '0'
 abstract: "Exploitation techniques to abuse metadata of heap allocators have been\
