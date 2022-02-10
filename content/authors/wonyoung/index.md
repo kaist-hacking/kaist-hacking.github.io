@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WonYoung Jung
+title: Wonyoung Jung
 
 # Is this the primary user of the site?
 # superuser: true
@@ -14,4 +14,5 @@ highlight_name: true
 user_groups:
 - Master Students
 
+external_link: https://nonetype.kr/cv/
 ---
