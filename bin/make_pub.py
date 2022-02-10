@@ -97,9 +97,10 @@ def cleanup_page(entry):
 
     return old_page
 
-def adjust_page(page, old_page):
+def try_idempotent(page, old_page):
     """
-    Remove time-related fields for better version management
+    Try to be idempotent by removing time-related fields. This is useful in
+    version management.
     """
     TIME_FIELDS = ['publishDate', 'lastmod']
 
@@ -126,10 +127,7 @@ def adjust_page(page, old_page):
         page.fm[field] = old_page.fm[field]
 
 def create_page(entry):
-    old_page = cleanup_page(entry)
-    page = parse_bibtex_entry(entry, overwrite=True)
-    adjust_page(page, old_page) 
-    return page
+    return parse_bibtex_entry(entry, overwrite=True)
 
 def update_resources(page, entry):
     static_dir = os.path.join(_ROOT, '../static')
@@ -157,10 +155,12 @@ def main():
         update_conf(entry, confs)
 
         meta_fields = create_meta_fields(entry)
+        old_page = cleanup_page(entry)
         page = create_page(entry)
 
         update_resources(page, entry)
         update_meta_fields(page, meta_fields)
+        try_idempotent(page, old_page)
         page.dump()
 
 if __name__ == '__main__':
