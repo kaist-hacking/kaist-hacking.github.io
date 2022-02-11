@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2022-08-01'
-lastmod: 2022-02-10T11:34:01+09:00
+lastmod: 2022-02-11T14:22:43+09:00
 featured: false
 draft: false
 
@@ -34,9 +34,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-10T02:34:01.817081Z'
+publishDate: '2022-02-11T05:22:43.872788Z'
 publication_types:
 - '0'
 abstract: ''
 publication: '*Proceedings of the 31th USENIX Security Symposium (Security)*'
+author_notes:
+- Equal contribution
+- Equal contribution
 ---
