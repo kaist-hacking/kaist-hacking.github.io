@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-10-01'
-lastmod: 2022-06-13T16:10:49+09:00
+lastmod: 2022-06-13T16:13:54+09:00
 featured: false
 draft: false
 
@@ -32,10 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-13T07:10:48.831469Z'
+publishDate: '2022-06-13T07:13:53.955719Z'
 publication_types:
 - '0'
 abstract: ''
 publication: '*Proceedings of the 2022 International Symposium on Research in Attacks,
-  Intrusions and Defenses*'
+  Intrusions and Defenses (RAID)*'
 ---
