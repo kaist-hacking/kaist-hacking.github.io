@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices'
+title: Scalable and Secure Virtualization of HSM with ScaleTrust
 subtitle: ''
 summary: ''
 authors:
-- CheolJun Park
-- Sangwook Bae
-- BeomSeok Oh
-- Jiho Lee
-- Eunkyu Lee
+- Juhyeng Han
 - Insu Yun
-- Yongdae Kim
+- Seongmin Kim
+- Taesoo Kim
+- Sooel Son
+- Dongsu Han
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T18:18:58+09:00
+date: '2022-10-01'
+lastmod: 2022-11-04T10:26:26+09:00
 featured: false
 draft: false
 
@@ -33,14 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T09:18:58.348155Z'
+publishDate: '2022-11-04T01:26:26.301841Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 31th USENIX Security Symposium (Security)*'
-url_paper: pubs/2022/park:doltest.pdf
-url_code: https://github.com/SysSec-KAIST/DoLTEst
-author_notes:
-- Equal contribution
-- Equal contribution
+publication: '*IEEE/ACM Transactions on Networking (ToN)*'
 ---
