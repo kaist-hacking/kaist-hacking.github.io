@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices'
+title: 'QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries
+  (to appear)'
 subtitle: ''
 summary: ''
 authors:
-- CheolJun Park
-- Sangwook Bae
-- BeomSeok Oh
-- Jiho Lee
-- Eunkyu Lee
+- HyungSeok Han
+- JeongOh Kyea
+- Yonghwi Jin
+- Jinoh Kang
+- Brian Park
 - Insu Yun
-- Yongdae Kim
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-11-11T04:07:30+09:00
+date: '2023-05-01'
+lastmod: 2022-11-11T04:17:46+09:00
 featured: false
 draft: false
 
@@ -33,15 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-10T19:07:29.965696Z'
+publishDate: '2022-11-10T19:17:46.661693Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 31th USENIX Security Symposium (Security)*'
-url_slides: pubs/2022/park:doltest-slides.pdf
-url_paper: pubs/2022/park:doltest.pdf
-url_code: https://github.com/SysSec-KAIST/DoLTEst
-author_notes:
-- Equal contribution
-- Equal contribution
+publication: '*Proceedings of the 44th IEEE Symposium on Security and Privacy (Oakland)*'
 ---
