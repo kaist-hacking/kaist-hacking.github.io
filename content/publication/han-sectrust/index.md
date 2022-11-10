@@ -13,8 +13,8 @@ authors:
 - Dongsu Han
 tags: []
 categories: []
-date: '2022-10-01'
-lastmod: 2022-11-11T04:07:29+09:00
+date: '2022-11-01'
+lastmod: 2022-11-11T04:43:27+09:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-10T19:07:29.735758Z'
+publishDate: '2022-11-10T19:43:27.329218Z'
 publication_types:
 - '2'
 abstract: ''
