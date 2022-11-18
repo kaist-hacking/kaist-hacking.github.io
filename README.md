@@ -24,12 +24,6 @@ Please add your profile in `content/author`.
 ## Add news
 Modify `content/home/news.md`.
 
-## Make it public to github
-**Check again before you run this command**
-```
-$ ./publish.sh
-```
-
 ## Reference
 - https://github.com/wowchemy/starter-academic
 
