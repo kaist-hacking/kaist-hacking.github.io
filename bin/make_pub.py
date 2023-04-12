@@ -149,6 +149,7 @@ def update_resources(page, entry):
         page.fm['url_paper'] = os.path.relpath(paper, static_dir)
 
 def main():
+    assert which('hugo'), "Cannot find hugo"
     confs = read_conf()
 
     parser = BibTexParser(common_strings=True)
