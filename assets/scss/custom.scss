@@ -1,0 +1,15 @@
+table > thead > tr > th  {
+  min-width: 165px;
+}
+
+table > tbody > tr > td:first-child {
+    font-weight: bold;
+}
+
+table > tbody > tr:nth-child(odd) > td {
+  background-color: transparent;
+}
+
+.article-container {
+  max-width: 1200px;
+}
