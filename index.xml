@@ -36,7 +36,21 @@
 &lt;td>CVE-2023-0696&lt;/td>
 &lt;td>Type confusion in V8 in Google Chrome prior to 110.0.5481.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)&lt;/td>
 &lt;td>Haein Lee&lt;/td>
-&lt;td>$7000&lt;/td>
+&lt;td>$7,000&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WebKit&lt;/td>
+&lt;td>CVE-2022-32923&lt;/td>
+&lt;td>A correctness issue in the JIT was addressed with improved checks. This issue is fixed in tvOS 16.1, iOS 15.7.1 and iPadOS 15.7.1, macOS Ventura 13, watchOS 9.1, Safari 16.1, iOS 16.1 and iPadOS 16. Processing maliciously crafted web content may disclose internal states of the app.&lt;/td>
+&lt;td>Wonyoung Jung&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Samsung Exynos&lt;/td>
+&lt;td>CVE-2022-23425&lt;/td>
+&lt;td>Improper input validation in Exynos baseband prior to SMR Feb-2022 Release 1 allows attackers to send arbitrary NAS signaling messages with fake base station.&lt;/td>
+&lt;td>Eunsoo Kim, CheolJun Park&lt;/td>
+&lt;td>$14,760&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>NETGEAR R6700v3&lt;/td>
