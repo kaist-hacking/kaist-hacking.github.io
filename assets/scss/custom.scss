@@ -1,15 +1,15 @@
-table > thead > tr > th  {
+.table-cve > thead > tr > th  {
   min-width: 165px;
 }
 
-table > tbody > tr > td:first-child {
+.table-cve > tbody > tr > td:first-child {
     font-weight: bold;
 }
 
-table > tbody > tr:nth-child(odd) > td {
+.table-cve > tbody > tr:nth-child(odd) > td {
   background-color: transparent;
 }
 
 .article-container {
-  max-width: 1200px;
+  max-width: 1200px !important;
 }

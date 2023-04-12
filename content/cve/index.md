@@ -7,7 +7,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
-{{<table "table">}}	
+{{<table "table table-cve">}}	
 
 |Product     |CVE            | Description          | Lead  | Bounty |
 |------------|---------------|----------------------|-------|--------|
