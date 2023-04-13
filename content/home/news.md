@@ -15,7 +15,7 @@ weight: 15
 title: News
 
 ---
-* [01/19/2023] $70K Bug Bounty from Google (V8/CVE-2023-0696)
+* [01/19/2023] $7K Bug Bounty from Google (V8/CVE-2023-0696)
 * [11/11/2022] QueryX is accepted to [IEEE
     S&P'23](https://www.ieee-security.org/TC/SP2023/index.html)!
 * [11/04/2022] ScaleTrust is accepted to [ToN'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)!
