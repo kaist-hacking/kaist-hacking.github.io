@@ -11,7 +11,7 @@ comments: false  # Show comments?
 
 |Product     |CVE            | Description          | Lead  | Bounty |
 |------------|---------------|----------------------|-------|--------|
-|vm2         |CVE-2023-XXXXX | |SeungHyun Lee||
+|vm2         |CVE-2023-30547 |There exists a vulnerability in exception sanitization of vm2 for versions up to 3.9.16, allowing attackers to raise an unsanitized host exception inside handleException() which can be used to escape the sandbox and run arbitrary code in host context.|SeungHyun Lee||
 |vm2         |CVE-2023-29199 | There exists a vulnerability in source code transformer (exception sanitization logic) of vm2 for versions up to 3.9.15, allowing attackers to bypass handleException() and leak unsanitized host exceptions which can be used to escape the sandbox and run arbitrary code in host context.|SeungHyun Lee||
 |Firefox|CVE-2023-29548|A wrong lowering instruction in the ARM64 Ion compiler resulted in a wrong optimization result.|JunYoung Park|
 |Chrome|CVE-2023-0696  | Type confusion in V8 in Google Chrome prior to 110.0.5481.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)|Haein Lee|$7,000|
