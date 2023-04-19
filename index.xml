@@ -12,8 +12,8 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>vm2&lt;/td>
-&lt;td>CVE-2023-XXXXX&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>CVE-2023-30547&lt;/td>
+&lt;td>There exists a vulnerability in exception sanitization of vm2 for versions up to 3.9.16, allowing attackers to raise an unsanitized host exception inside handleException() which can be used to escape the sandbox and run arbitrary code in host context.&lt;/td>
 &lt;td>SeungHyun Lee&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
