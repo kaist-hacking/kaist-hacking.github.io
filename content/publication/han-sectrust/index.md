@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Scalable and Secure Virtualization of HSM with ScaleTrust (to appear)
+title: Scalable and Secure Virtualization of HSM with ScaleTrust
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-11-01'
-lastmod: 2022-11-11T04:43:27+09:00
+lastmod: 2023-06-06T22:05:05+09:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-10T19:43:27.329218Z'
+publishDate: '2023-06-06T13:05:05.753812Z'
 publication_types:
 - '2'
 abstract: ''

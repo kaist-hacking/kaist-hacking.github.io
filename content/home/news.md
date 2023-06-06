@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [06/06/2023] BaseComp is accepted to [Usenix Security'23](https://www.usenix.org/conference/usenixsecurity23)!
 * [01/19/2023] $7K Bug Bounty from Google (V8/CVE-2023-0696)
 * [11/11/2022] QueryX is accepted to [IEEE
     S&P'23](https://www.ieee-security.org/TC/SP2023/index.html)!
