@@ -8,7 +8,10 @@ summary: ''
 authors:
 - Eunsoo Kim
 - Min Woo Baek
-- Dongkwan Kim, Yongdae Kim, Insu Yun CheolJun Park
+- CheolJun Park
+- Dongkwan Kim
+- Yongdae Kim
+- Insu Yun
 tags: []
 categories: []
 date: '2023-08-01'
