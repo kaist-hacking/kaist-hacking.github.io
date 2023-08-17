@@ -38,6 +38,9 @@ publication_types:
 - '0'
 abstract: ''
 publication: '*Proceedings of the 32nd USENIX Security Symposium (Security)*'
+url_slides: pubs/2023/kim:basecomp-slides.pdf
+url_paper: pubs/2023/kim:basecomp.pdf
+url_code: https://github.com/kaist-hacking/BaseComp
 author_notes:
 - Equal contribution
 - Equal contribution
