@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'BaseComp: A Comparative Analysis for Integrity Protection in Cellular Baseband
-  Software (to appear)'
+  Software'
 subtitle: ''
 summary: ''
 authors:
