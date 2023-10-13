@@ -1,20 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'BaseComp: A Comparative Analysis for Integrity Protection in Cellular Baseband
-  Software'
+title: 'One shot, Triple kill: Pwning all three Google kernelCTF instances with a
+  single 1-day Linux vulnerability'
 subtitle: ''
 summary: ''
 authors:
-- Eunsoo Kim
-- Min Woo Baek
-- CheolJun Park
-- Dongkwan Kim
-- Yongdae Kim
+- Dongok Kim
+- Seunghyun Lee
 - Insu Yun
 tags: []
 categories: []
-date: '2023-08-01'
+date: '2023-11-01'
 lastmod: 2023-10-13T20:53:51+09:00
 featured: false
 draft: false
@@ -33,14 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-13T11:53:51.346023Z'
+publishDate: '2023-10-13T11:53:51.282706Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 32nd USENIX Security Symposium (Security)*'
-url_slides: pubs/2023/kim:basecomp-slides.pdf
-url_paper: pubs/2023/kim:basecomp.pdf
-author_notes:
-- Equal contribution
-- Equal contribution
+publication: '*Proceedings of the 2023 Power of Community*'
 ---
