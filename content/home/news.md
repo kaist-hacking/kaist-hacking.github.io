@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [10/25/2023] We got 2nd place in [cyber security challenge 2023](https://sec-challenge.kr/main)!
 * [10/13/2023] Our KernelCTF submission is accepted to [POC2023](https://powerofcommunity.net/)!
 * [10/04/2023] $67K Bug Bounty from Google (Linux/CVE-2023-3390).
 * [07/17/2023] QSYM got a Frontiers of Science Award from [ICSB](https://www.icbs.cn/)!
@@ -24,5 +25,5 @@ title: News
     S&P'23](https://www.ieee-security.org/TC/SP2023/index.html)!
 * [11/04/2022] ScaleTrust is accepted to [ToN'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)!
 * [06/11/2022] FuzzCoin is accepted to [RAID'22](https://raid2022.cs.ucy.ac.cy/index.html)!
-* [09/04/2021] DoLTEst is conditionally accepted to [Usenix Security'22](https://www.usenix.org/conference/usenixsecurity22)!
+<!-- * [09/04/2021] DoLTEst is conditionally accepted to [Usenix Security'22](https://www.usenix.org/conference/usenixsecurity22)! -->
 <!-- * [07/21/2021] HardsHeap is conditionally accepted to [CCS'21](https://www.sigsac.org/ccs/CCS2021/)! -->
