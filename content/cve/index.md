@@ -11,7 +11,7 @@ comments: false  # Show comments?
 
 |Product     |CVE            | Description          | Lead  | Bounty |
 |------------|---------------|----------------------|-------|--------|
-|Linux       |CVE-2023-3390  | (1-day) A use-after-free vulnerability was found in the Linux kernel's netfilter subsystem in net/netfilter/nf_tables_api.c|SeungHyun Lee & Dongok Kim| $67,837 (kernelCTF) |
+|Linux       |CVE-2023-3390  | (1-day) A use-after-free vulnerability was found in the Linux kernel's netfilter subsystem in net/netfilter/nf_tables_api.c|Dongok Kim & SeungHyun Lee| $67,837 (kernelCTF) |
 |vm2         |CVE-2023-30547 |There exists a vulnerability in exception sanitization of vm2 for versions up to 3.9.16, allowing attackers to raise an unsanitized host exception inside handleException() which can be used to escape the sandbox and run arbitrary code in host context.|SeungHyun Lee||
 |vm2         |CVE-2023-29199 | There exists a vulnerability in source code transformer (exception sanitization logic) of vm2 for versions up to 3.9.15, allowing attackers to bypass handleException() and leak unsanitized host exceptions which can be used to escape the sandbox and run arbitrary code in host context.|SeungHyun Lee||
 |Firefox|CVE-2023-29548|A wrong lowering instruction in the ARM64 Ion compiler resulted in a wrong optimization result.|JunYoung Park|
