@@ -14,7 +14,7 @@
 &lt;td>Linux&lt;/td>
 &lt;td>CVE-2023-3390&lt;/td>
 &lt;td>(1-day) A use-after-free vulnerability was found in the Linux kernel&amp;rsquo;s netfilter subsystem in net/netfilter/nf_tables_api.c&lt;/td>
-&lt;td>SeungHyun Lee &amp;amp; Dongok Kim&lt;/td>
+&lt;td>Dongok Kim &amp;amp; SeungHyun Lee&lt;/td>
 &lt;td>$67,837 (kernelCTF)&lt;/td>
 &lt;/tr>
 &lt;tr>
