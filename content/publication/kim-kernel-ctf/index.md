@@ -40,4 +40,6 @@ To address these issues, Google recently announced kernelCTF — a bug bounty pr
 In this talk, we will present our exploits submitted to kernelCTF. Notably, this is the first submission in kernelCTF's history that exploits every target with a single (1-day) vulnerability. We will briefly introduce what kernelCTF is and each target kernel instance of kernelCTF. Then, we will explain how we built the 1-day vulnerability exploit for every target instance in detail. This will include how we discovered this vulnerability, and how we made exploits working for the different target kernel versions, build configs, and applied mitigations. Finally, we will share our novel research and insights into kernel exploit mitigations of Linux and Google, focusing on their limitations and side effects. We will also discuss the difficulties to apply mitigations to the Linux kernel."
 publication: '*Proceedings of the 2023 Power of Community*'
 url_slides: pubs/2023/kim:kernel-ctf-slides.pdf
+url_paper: pubs/2023/kim:kernel-ctf-slides.pdf
+
 ---
