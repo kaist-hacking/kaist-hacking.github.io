@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Hacking Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "navy"
+  color = "white"
 
   # Background gradient.
   # gradient_start = "#3f51b5"
@@ -31,7 +31,7 @@ hero_media = "hero-academic.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 +++
 
