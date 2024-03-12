@@ -15,9 +15,9 @@ weight: 15
 title: News
 
 ---
+* [01/25/2024] $10K Bug Bounty from Google v8CTF (V8/CVE-2023-6702).
 * [10/25/2023] We got 2nd place in [cyber security challenge 2023](https://sec-challenge.kr/main)!
-* [10/13/2023] Our KernelCTF submission is accepted to [POC2023](https://powerofcommunity.net/)!
-* [10/04/2023] $67K Bug Bounty from Google (Linux/CVE-2023-3390).
+* [10/04/2023] $67K Bug Bounty from Google kernelCTF (Linux/CVE-2023-3390).
 * [07/17/2023] QSYM got a Frontiers of Science Award from [ICSB](https://www.icbs.cn/)!
 * [06/06/2023] BaseComp is accepted to [Usenix Security'23](https://www.usenix.org/conference/usenixsecurity23)!
 * [01/19/2023] $7K Bug Bounty from Google (V8/CVE-2023-0696).
