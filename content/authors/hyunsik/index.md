@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Hyunsik Jung
+title: Hyunsik Jeong
 
 # Is this the primary user of the site?
 # superuser: true
 profile: false
 
 # Role/position
-role: Master '21, S2W
+role: Master '21, Theori
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
