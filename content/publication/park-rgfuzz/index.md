@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes (To appear)'
+title: 'RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes'
 subtitle: ''
 summary: ''
 authors:
