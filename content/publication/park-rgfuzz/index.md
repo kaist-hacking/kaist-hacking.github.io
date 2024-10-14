@@ -35,7 +35,7 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 46th IEEE Symposium on Security and Privacy (Oakland)*'
 author_notes:
-- 
-- Corresponding author
-- Corresponding author
+- ""
+- "Corresponding author"
+- "Corresponding author"
 ---
