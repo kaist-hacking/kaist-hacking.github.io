@@ -66,9 +66,13 @@ def create_meta_fields(entry):
     author_notes = []
     for i, author in enumerate(authors):
         if author.endswith("*"):
-            assert(i == len(author_notes))
             author_notes.append('Equal contribution')
             authors[i] = author[:-1] # Remove *
+        elif author.endswith("+"):
+            author_notes.append('Corresponding author')
+            authors[i] = author[:-1] # Remove +
+        else:
+            author_notes.append('')
 
     if author_notes:
         meta_fields['author_notes'] = author_notes
