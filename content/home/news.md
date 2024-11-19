@@ -16,6 +16,7 @@ title: News
 
 ---
 * [09/10/2024] RGFuzz is accepted to [IEEE S&P '25](https://www.ieee-security.org/TC/SP2025/index.html)!
+* [08/11/2024] Team Atlanta proceeds to [the AIxCC final](https://aicyberchallenge.com/)!
 * [03/22/2024] Seunghyun won [Pwn2Own 2024](https://www.zerodayinitiative.com/blog/2024/3/21/pwn2own-vancouver-2024-day-two-results) by exploiting Google Chrome and Microsoft Edge ($145K)!
 * [01/25/2024] $10K Bug Bounty from Google v8CTF (V8/CVE-2023-6702).
 * [10/25/2023] We got 2nd place in [cyber security challenge 2023](https://sec-challenge.kr/main)!
