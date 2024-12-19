@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2024-05-01'
-lastmod: 2024-06-02T23:39:21+09:00
+lastmod: 2024-12-19T10:04:09+09:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-06-02T14:39:21.520530Z'
+publishDate: '2024-12-19T01:04:09.893604Z'
 publication_types:
 - '0'
 abstract: "In today’s digital era, where the internet has become as essential as the\
@@ -48,7 +48,7 @@ abstract: "In today’s digital era, where the internet has become as essential 
   \ due to the recent introduction of pointer compression in V8. To exploit this vulnerability,\
   \ we applied a variety of techniques and successfully achieved a remote code execution\
   \ with nearly a 100% success rate."
-publication: '*TyphoonCon*'
+publication: '*TyphoonCon 2024*'
 url_slides: pubs/2024/lee:v8-ctf-slides.pdf
 url_code: https://github.com/kaist-hacking/CVE-2023-6702
 ---

@@ -18,14 +18,15 @@ _ROOT = os.path.dirname(__file__)
 META_FIELD_MAPPING = {
     'www-url': 'url_web',
     'www-git': 'url_code',
-    'award': 'award'
+    'award': 'award',
+    'attributes': None
 }
 
 def read_conf():
     """
     Returns a mapping between a conference name to its metadata
     """
-    conf_bib = os.path.join(os.path.abspath(_ROOT), '../assets/pubs/intl/conf.bib')
+    conf_bib = os.path.join(os.path.abspath(_ROOT), '../assets/pubs/conf.bib')
     assert(os.path.exists(conf_bib))
 
     confs = {}
@@ -59,6 +60,9 @@ def create_meta_fields(entry):
 
             # Make award bold
             if page_key == 'award':
+                # Remove xxx out of yyy
+                if ' (' in value:
+                    value = value.split(' (')[0]
                 meta_fields[page_key] = f"**{value}**"
 
     # Support co-first authors
@@ -66,13 +70,9 @@ def create_meta_fields(entry):
     author_notes = []
     for i, author in enumerate(authors):
         if author.endswith("*"):
+            assert(i == len(author_notes))
             author_notes.append('Equal contribution')
             authors[i] = author[:-1] # Remove *
-        elif author.endswith("+"):
-            author_notes.append('Corresponding author')
-            authors[i] = author[:-1] # Remove +
-        else:
-            author_notes.append('')
 
     if author_notes:
         meta_fields['author_notes'] = author_notes
@@ -153,11 +153,10 @@ def update_resources(page, entry):
         page.fm['url_paper'] = os.path.relpath(paper, static_dir)
 
 def main():
-    assert which('hugo'), "Cannot find hugo"
     confs = read_conf()
 
     parser = BibTexParser(common_strings=True)
-    pub_bib = os.path.join(os.path.abspath(_ROOT), '../assets/pubs/intl/pub.bib')
+    pub_bib = os.path.join(os.path.abspath(_ROOT), '../assets/pubs/pub.bib')
     bib_database = bibtexparser.load(open(pub_bib), parser)
 
     for i, entry in enumerate(bib_database.entries):

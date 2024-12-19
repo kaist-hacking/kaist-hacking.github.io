@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes (to appear)'
+title: Analyzing Qualcomm Hexagon Emulators via Differential Testing
 subtitle: ''
 summary: ''
 authors:
-- Junyoung Park
-- Yunho Kim
+- Hyunsik Jung
 - Insu Yun
+- Yongdae Kim
 tags: []
 categories: []
-date: '2025-05-01'
-lastmod: 2024-12-19T10:04:09+09:00
+date: '2021-06-01'
+lastmod: 2024-12-19T10:04:10+09:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-12-19T01:04:09.805573Z'
+publishDate: '2024-12-19T01:04:10.513998Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 46th IEEE Symposium on Security and Privacy (Oakland)*'
+publication: '*Proceedings of the Conference on Information Security and Cryptography
+  Summer(CISC-S) 2021*'
 ---

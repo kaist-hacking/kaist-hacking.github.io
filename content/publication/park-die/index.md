@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2022-02-10T11:34:02+09:00
+lastmod: 2024-12-19T10:04:11+09:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-10T02:34:02.264107Z'
+publishDate: '2024-12-19T01:04:11.001513Z'
 publication_types:
 - '0'
 abstract: "Fuzzing is a practical, widely-deployed technique to find bugs in complex,\
@@ -57,4 +57,5 @@ abstract: "Fuzzing is a practical, widely-deployed technique to find bugs in com
 publication: '*Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland)*'
 url_slides: pubs/2020/park:die-slides.pdf
 url_paper: pubs/2020/park:die.pdf
+award: '**Nominated as a finalist in CSAW Best Applied Research Paper Award 2020**'
 ---

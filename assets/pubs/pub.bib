@@ -2,34 +2,39 @@
 %% www-git    : proj webpage
 %% award      : award
 
-%% 2024
-@proceedings{lee:v8-ctf,
+%% 2025
+@InProceedings{park:fible,
+  title         = {{Bridging the Gap between Real-World and Formal Binary Lifting through Filtered-Simulation (to appear)}},
+  author        = {Jihee Park and Insu Yun and Sukyoung Ryu},
+  crossref      = {OOPSLA25}
+}
+
+@InProceedings{park:rgfuzz,
+ title         = {{RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes (to appear)}},
+ author        = {Junyoung Park and Yunho Kim and Insu Yun},
+ crossref      = {SP25}
+}
+
+@InProceedings{lee:v8-ctf,
   title         = {{From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory}},
   author        = {Haein Lee and Insu Yun},
   crossref      = {TYPHOON24},
   www-git       = "https://github.com/kaist-hacking/CVE-2023-6702",
-}
-
-@proceedings{park:rgfuzz,
- title         = {{RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes (to appear)}},
- author        = {Junyoung Park and Yunho Kim+ and Insu Yun+},
- crossref      = {SP25}
+  attributes    = {nopub}
 }
 
 %% 2023
-@proceedings{kim:kernel-ctf,
- address = {Seoul, Korea},
- author = {Dongok Kim and Seunghyun Lee and Insu Yun},
- booktitle = {Proceedings of the 2023 Power of Community},
- month = {November},
+@InProceedings{kim:kernel-ctf,
  title = {{One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability}},
- year = {2023}
+ author = {Dongok Kim and Seunghyun Lee and Insu Yun},
+ crossref = {POC23},
+ attributes = {nopub}
 }
 
 @InProceedings{kim:basecomp,
   title        = {{BaseComp: A Comparative Analysis for Integrity Protection in Cellular Baseband Software}},
   author       = {Eunsoo Kim* and Min Woo Baek* and CheolJun Park and Dongkwan Kim and Yongdae Kim and Insu Yun},
-  crossref     = {SEC23}
+  crossref     = {SEC23},
 }
 
 @InProceedings{han:queryx,
@@ -66,6 +71,13 @@
   author        = {Insu Yun and Woosun Song and Seunggi Min and Taesoo Kim},
   crossref      = {CCS21},
   www-git      = "https://github.com/kaist-hacking/HardsHeap"
+}
+
+@InProceedings{jung:hexagon,
+  title         = {{Analyzing Qualcomm Hexagon Emulators via Differential Testing}},
+  author        = {Hyunsik Jung and Insu Yun and Yongdae Kim},
+  crossref      = {CISC-S21},
+  attributes    = {domestic}
 }
 
 @InProceedings{wickman:ffmalloc,
@@ -105,19 +117,21 @@
   author       = {Yonghwi Jin and Jungwon Lim and Insu Yun and Taesoo Kim},
   crossref     = {BLACKHAT20},
   www-git       = "https://github.com/sslab-gatech/pwn2own2020",
+  attributes     = {nopub, asdf}
 }
 
 @InProceedings{park:die,
   title         = {{Fuzzing JavaScript Engines with Aspect-preserving Mutation}},
   author        = {Soyeon Park and Wen Xu and Insu Yun and Daehee Jang and Taesoo Kim},
   crossref      = {SP20},
+  award         = "Nominated as a finalist in CSAW Best Applied Research Paper Award 2020"
 }
 
 @InProceedings{cui:rept,
   title         = {{REPT: Reverse Debugging of Failures in Deployed Software}},
   author        = {Weidong Cui and Xinyang Ge and Baris Kasikci and Ben Niu and Upamanyu Sharma and Ruoyu Wang and Insu Yun},
   crossref      = {OSDI18},
-  award         = "Jay Lepreau Best Paper Award"
+  award         = "Jay Lepreau Best Paper Award (3 out of 257 submissions)"
 }
 
 @InProceedings{yun:qsym,
@@ -125,7 +139,8 @@
   author        = {Insu Yun and Sangho Lee and Meng Xu and Yeongjin Jang and Taesoo Kim},
   crossref      = {SEC18},
   www-git       = "https://github.com/sslab-gatech/qsym",
-  award         = "Distinguished Paper Award"
+  award         = "Distinguished Paper Award (5 out of 524 submissions)"
+
 }
 
 @InProceedings{jung:avpass,
@@ -133,6 +148,7 @@
   author       = {Jinho Jung and Chanil Jeon and Max Wolotsky and Insu Yun and Taesoo Kim},
   crossref     = {BLACKHAT17},
   www-git      = "https://github.com/sslab-gatech/avpass",
+  attributes     = {nopub}
 }
 
 @InProceedings{kim:cab-fuzz,

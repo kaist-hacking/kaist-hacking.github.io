@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-11-01'
-lastmod: 2024-03-27T10:47:38+09:00
+lastmod: 2024-12-19T10:04:10+09:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-03-27T01:47:38.711094Z'
+publishDate: '2024-12-19T01:04:09.972555Z'
 publication_types:
 - '0'
 abstract: "Desktops, servers, cloud computing services, mobile devices, and IoT devices.\
@@ -61,6 +61,6 @@ abstract: "Desktops, servers, cloud computing services, mobile devices, and IoT 
   \ we will share our novel research and insights into kernel exploit mitigations\
   \ of Linux and Google, focusing on their limitations and side effects. We will also\
   \ discuss the difficulties to apply mitigations to the Linux kernel."
-publication: '*Proceedings of the 2023 Power of Community*'
+publication: '*POC 2023*'
 url_slides: pubs/2023/kim:kernel-ctf-slides.pdf
 ---

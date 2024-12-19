@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes (to appear)'
+title: Bridging the Gap between Real-World and Formal Binary Lifting through Filtered-Simulation
+  (to appear)
 subtitle: ''
 summary: ''
 authors:
-- Junyoung Park
-- Yunho Kim
+- Jihee Park
 - Insu Yun
+- Sukyoung Ryu
 tags: []
 categories: []
-date: '2025-05-01'
+date: '2025-10-01'
 lastmod: 2024-12-19T10:04:09+09:00
 featured: false
 draft: false
@@ -29,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-12-19T01:04:09.805573Z'
+publishDate: '2024-12-19T01:04:09.636129Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 46th IEEE Symposium on Security and Privacy (Oakland)*'
+publication: '*Proceedings of the ACM SIGPLAN International Conference on Object-Oriented
+  Programming, Systems, Languages, and Applications (OOPSLA) 2025*'
 ---
