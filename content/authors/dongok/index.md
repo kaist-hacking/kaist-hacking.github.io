@@ -9,10 +9,12 @@ profile: false
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+role: Master '25, ENKI WhiteHat
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 
 external_link: https://github.com/c0m0r1
 ---
