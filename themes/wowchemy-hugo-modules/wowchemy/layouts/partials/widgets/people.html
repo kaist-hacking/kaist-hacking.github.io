@@ -23,7 +23,7 @@
   {{ end }}
 
   {{ range $page.Params.content.user_groups }}
-  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+  {{ $query := sort (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .)) "Params.weight" "desc" }}
 
   {{if $query}}
   <div class="col-md-12">

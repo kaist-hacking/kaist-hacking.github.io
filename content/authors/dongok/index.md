@@ -9,6 +9,7 @@ profile: false
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+weight: 2025
 role: Master '25, ENKI WhiteHat
 
 # Organizational groups that you belong to (for People widget)
