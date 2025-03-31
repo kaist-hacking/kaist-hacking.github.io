@@ -23,7 +23,6 @@ title: News
 * [01/25/2024] $10K Bug Bounty from Google v8CTF (V8/CVE-2023-6702).
 * [10/25/2023] We got 2nd place in [cyber security challenge 2023](https://sec-challenge.kr/main)!
 * [10/04/2023] $67K Bug Bounty from Google kernelCTF (Linux/CVE-2023-3390).
-<!--
 * [07/17/2023] QSYM got a Frontiers of Science Award from [ICSB](https://www.icbs.cn/)!
 * [06/06/2023] BaseComp is accepted to [Usenix Security'23](https://www.usenix.org/conference/usenixsecurity23)!
 * [01/19/2023] $7K Bug Bounty from Google (V8/CVE-2023-0696).
@@ -33,4 +32,43 @@ title: News
 * [06/11/2022] FuzzCoin is accepted to [RAID'22](https://raid2022.cs.ucy.ac.cy/index.html)!
 * [09/04/2021] DoLTEst is conditionally accepted to [Usenix Security'22](https://www.usenix.org/conference/usenixsecurity22)!
 * [07/21/2021] HardsHeap is conditionally accepted to [CCS'21](https://www.sigsac.org/ccs/CCS2021/)! 
--->
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const section = document.querySelector("#news");
+        if (!section) return;
+
+        const list = section.querySelector("ul");
+        if (!list) return;
+
+        const items = list.querySelectorAll("li");
+        const moreLink = document.createElement("a");
+        moreLink.href = "#";
+        moreLink.textContent = "Show more";
+        moreLink.style.marginTop = "10px";
+        moreLink.style.display = "block";
+        moreLink.style.cursor = "pointer";
+        moreLink.style.textDecoration = "underline";
+
+        let isExpanded = false;
+
+        items.forEach((item, index) => {
+            if (index >= 10) {
+                item.style.display = "none";
+            }
+        });
+
+        moreLink.addEventListener("click", (e) => {
+            e.preventDefault();
+            isExpanded = !isExpanded;
+            items.forEach((item, index) => {
+                if (index >= 10) {
+                    item.style.display = isExpanded ? "block" : "none";
+                }
+            });
+            moreLink.textContent = isExpanded ? "Show less" : "Show more";
+        });
+        list.parentNode.insertBefore(moreLink, list.nextSibling);
+    });
+</script>
