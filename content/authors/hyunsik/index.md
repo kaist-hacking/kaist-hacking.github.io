@@ -7,7 +7,7 @@ title: Hyunsik Jeong
 profile: false
 
 # Role/position
-role: Master '21, Theori
+role: Master '21, S2W
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

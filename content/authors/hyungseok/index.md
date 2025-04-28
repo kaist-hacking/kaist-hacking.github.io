@@ -6,7 +6,7 @@ title: HyungSeok Han
 # superuser: true
 profile: false
 
-role: Ph.D '23, Samsung Research America
+role: Ph.D '23, Postdoc at Georgia Tech
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
