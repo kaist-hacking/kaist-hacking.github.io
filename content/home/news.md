@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [04/28/2025] FirmState is accepted to [WiSec '25](https://wisec2025.gmu.edu/)!
 * [03/31/2025] CPMM-Exploiter is accepted to [ISSTA '25](https://conf.researchr.org/home/issta-2025)!
 * [12/19/2024] FIBLE is accepted to [OOPSLA '25](https://2025.splashcon.org/track/OOPSLA)!
 * [09/10/2024] RGFuzz is accepted to [IEEE S&P '25](https://www.ieee-security.org/TC/SP2025/index.html)!

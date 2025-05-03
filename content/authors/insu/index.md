@@ -4,7 +4,7 @@ title: Insu Yun
 
 # Is this the primary user of the site?
 # superuser: true
-profile: false
+profile: true
 
 # Role/position
 role: Assistant Professor
