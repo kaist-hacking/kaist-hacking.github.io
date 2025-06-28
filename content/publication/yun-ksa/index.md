@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Too Much of a Good Thing: (In-)Security of Mandatory Security Software for
-  Financial Services in South Korea'
+  Financial Services in South Korea (to appear)'
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2025-08-01'
-lastmod: 2025-06-04T10:19:25+09:00
+lastmod: 2025-06-28T21:06:43+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-06-04T01:19:25.417724Z'
+publishDate: '2025-06-28T19:06:43.459242Z'
 publication_types:
 - '0'
 abstract: ''
