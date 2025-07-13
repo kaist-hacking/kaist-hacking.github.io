@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'FirmState: Bringing Cellular Protocol States to Shannon Baseband Emulation
-  (to appear)'
+title: 'FirmState: Bringing Cellular Protocol States to Shannon Baseband Emulation'
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2025-06-01'
-lastmod: 2025-07-13T20:38:26+09:00
+lastmod: 2025-07-13T20:49:25+09:00
 featured: false
 draft: false
 
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-07-13T11:38:26.825889Z'
+publishDate: '2025-07-13T11:49:25.065243Z'
 publication_types:
 - '0'
 abstract: "Cellular baseband processors represent critical security components in\
@@ -56,5 +55,6 @@ abstract: "Cellular baseband processors represent critical security components i
   \ further research in\nbaseband security.\n"
 publication: '*Proceedings of the 18th ACM Conference on Security and Privacy in Wireless
   and Mobile Networks (WiSec)*'
+url_slides: pubs/2025/jeong:firmstate-slides.pdf
 url_paper: pubs/2025/jeong:firmstate.pdf
 ---
