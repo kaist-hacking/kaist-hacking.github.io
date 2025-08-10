@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [08/09/2025] Team Atlanta wins [AIxCC](https://aicyberchallenge.com/)!
 * [05/30/2025] LLFuzz is accepted to [USENIX Security '25](https://www.ieee-security.org/TC/SEC2025/index.html)!
 * [04/28/2025] FirmState is accepted to [WiSec '25](https://wisec2025.gmu.edu/)!
 * [03/31/2025] CPMM-Exploiter is accepted to [ISSTA '25](https://conf.researchr.org/home/issta-2025)!
