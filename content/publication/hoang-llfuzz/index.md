@@ -13,8 +13,8 @@ authors:
 - Yongdae Kim
 tags: []
 categories: []
-date: '2025-06-01'
-lastmod: 2025-07-19T11:48:37+09:00
+date: '2025-08-01'
+lastmod: 2025-08-18T13:12:03+09:00
 featured: false
 draft: false
 
@@ -32,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-07-19T02:48:37.713651Z'
+publishDate: '2025-08-18T04:12:03.632272Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 18th ACM Conference on Security and Privacy in Wireless
-  and Mobile Networks (WiSec)*'
+publication: '*Proceedings of the 34th USENIX Security Symposium (Security)*'
 ---
