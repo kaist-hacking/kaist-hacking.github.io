@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [12/05/2025] RTCon is accepted to [NDSS '26](https://www.ndss-symposium.org/ndss2026/)
 * [08/21/2025] Two papers got accepted to [CCS '25](https://www.sigsac.org/ccs/CCS2025/)
 * [08/09/2025] Team Atlanta wins [AIxCC](https://aicyberchallenge.com/)!
 * [05/30/2025] LLFuzz is accepted to [USENIX Security '25](https://www.ieee-security.org/TC/SEC2025/index.html)!
