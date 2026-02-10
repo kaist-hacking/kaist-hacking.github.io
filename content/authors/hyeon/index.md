@@ -6,13 +6,15 @@ title: Hyeon Heo
 # superuser: true
 profile: false
 
+role: ENKI WhiteHat
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 
 external_link: https://github.com/rectcoordsystem
 ---
