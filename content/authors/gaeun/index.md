@@ -14,5 +14,5 @@ highlight_name: true
 user_groups:
 - Master Students
 
-external_link: 
+external_link: https://github.com/GaeunBae
 ---
