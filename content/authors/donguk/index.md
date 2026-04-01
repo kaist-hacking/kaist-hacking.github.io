@@ -6,7 +6,7 @@ title: Dong-uk Kim
 # superuser: true
 profile: false
 
-role: 78ResearchLab
+role: PK Security
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
