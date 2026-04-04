@@ -19,11 +19,6 @@
   weight = 40
 
 [[main]]
-  name = "CVEs"
-  url = "/cve"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 80
