@@ -7,6 +7,7 @@ title: Hyeon Heo
 profile: false
 
 role: Master '25, ENKI WhiteHat
+weight: 2025
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

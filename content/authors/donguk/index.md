@@ -7,6 +7,7 @@ title: Dong-uk Kim
 profile: false
 
 role: Master '25, 78ResearchLab
+weight: 2025
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

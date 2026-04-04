@@ -7,6 +7,7 @@ title: Seunggi Min
 profile: false
 
 role: Master '25, Financial Security Institute
+weight: 2025
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

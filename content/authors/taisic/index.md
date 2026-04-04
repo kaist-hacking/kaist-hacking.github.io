@@ -7,6 +7,7 @@ title: Taisic Yun
 profile: false
 
 role: Master '24, Theori
+weight: 2024
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

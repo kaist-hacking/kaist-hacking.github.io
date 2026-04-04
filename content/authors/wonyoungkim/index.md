@@ -7,6 +7,7 @@ title: Wonyoung Kim
 profile: false
 
 role: Master '25, Samsung
+weight: 2025
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
