@@ -6,7 +6,7 @@ title: Wonyoung Kim
 # superuser: true
 profile: false
 
-role: Samsung
+role: Master '25, Samsung
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

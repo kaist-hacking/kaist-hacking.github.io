@@ -53,6 +53,7 @@ title: News
         moreLink.href = "#";
         moreLink.textContent = "Show more";
         moreLink.style.marginTop = "10px";
+        moreLink.style.marginLeft = "2em";
         moreLink.style.display = "block";
         moreLink.style.cursor = "pointer";
         moreLink.style.textDecoration = "underline";
@@ -70,7 +71,7 @@ title: News
             isExpanded = !isExpanded;
             items.forEach((item, index) => {
                 if (index >= 10) {
-                    item.style.display = isExpanded ? "block" : "none";
+                    item.style.display = isExpanded ? "list-item" : "none";
                 }
             });
             moreLink.textContent = isExpanded ? "Show less" : "Show more";

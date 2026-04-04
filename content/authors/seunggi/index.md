@@ -6,7 +6,7 @@ title: Seunggi Min
 # superuser: true
 profile: false
 
-role: Financial Security Institute
+role: Master '25, Financial Security Institute
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
