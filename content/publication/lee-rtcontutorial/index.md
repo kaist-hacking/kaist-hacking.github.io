@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2026-05-01'
-lastmod: 2026-05-26T22:00:35+09:00
+lastmod: 2026-05-26T22:11:50+09:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-05-26T13:00:35.658229Z'
+publishDate: '2026-05-26T13:11:50.333810Z'
 publication_types:
 - '0'
 abstract: "Real-Time Operating Systems (RTOS) are widely used in embedded systems\
@@ -43,6 +43,6 @@ abstract: "Real-Time Operating Systems (RTOS) are widely used in embedded system
   \ will learn the principles of function-level fuzzing, execution context construction\
   \ for kernel functions, and practical techniques for testing RTOS kernels.\n"
 publication: '*Proceedings of the 2026 IEEE International Conference on Software Testing,
-  Verification and Validation (ICST) Tutorial *'
+  Verification and Validation (ICST) Tutorial*'
 url_slides: pubs/2026/lee:rtcontutorial-slides.pdf
 ---
