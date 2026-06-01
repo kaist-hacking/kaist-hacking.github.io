@@ -6,14 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Dong-uk Kim
-- JunYoung Park
+- Junyoung Park
 - Sanghak Oh
 - Hyoungshick Kim
 - Insu Yun
 tags: []
 categories: []
 date: '2025-10-01'
-lastmod: 2025-12-15T20:25:31+09:00
+lastmod: 2026-06-01T21:08:09+09:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-12-15T11:25:31.254744Z'
+publishDate: '2026-06-01T12:08:09.637129Z'
 publication_types:
 - '0'
 abstract: "File systems are essential components of modern operating systems, with\
