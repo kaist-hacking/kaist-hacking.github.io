@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [30/05/2026] "Should Opt-Out Depend on Where You Live? Comparing Mobile Privacy Choices Across Jurisdictions" accepted to [HotPETS '26](https://petsymposium.org/2026/index.php)
 * [12/05/2025] RTCon is accepted to [NDSS '26](https://www.ndss-symposium.org/ndss2026/)
 * [08/21/2025] Two papers got accepted to [CCS '25](https://www.sigsac.org/ccs/CCS2025/)
 * [08/09/2025] Team Atlanta wins [AIxCC](https://aicyberchallenge.com/)!
