@@ -13,3 +13,15 @@ table > tbody > tr:nth-child(odd) > td {
 .article-container {
   max-width: 1200px;
 }
+
+.dark #hero.wg-hero,
+.dark #hero.wg-hero .hero-title,
+.dark #hero.wg-hero .hero-lead,
+.dark #hero.wg-hero a:not(.btn) {
+  color: rgba(0, 0, 0, 0.84);
+}
+
+.dark #hero.wg-hero a:not(.btn):hover,
+.dark #hero.wg-hero a:not(.btn):focus {
+  color: rgba(0, 0, 0, 1);
+}
