@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2026-07-01'
-lastmod: 2026-07-11T20:53:46+09:00
+lastmod: 2026-07-18T16:52:47+09:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-07-11T11:53:46.355034Z'
+publishDate: '2026-07-18T07:52:47.675061Z'
 publication_types:
 - '0'
 abstract: "Recent advances in Large Language Models (LLMs) have enabled agentic systems\
@@ -49,6 +49,6 @@ abstract: "Recent advances in Large Language Models (LLMs) have enabled agentic 
   \ solution for evaluating cybersecurity agents. We release CTFusion as open source\
   \ to foster future research in this area.\n"
 publication: '*Proceedings of the Second Workshop on Agents in the Wild: Safety, Security,
-  and Beyond (ICML 2026)*'
+  and Beyond (ICML AIWILD)*'
 url_paper: pubs/2026/lee:ctfusion.pdf
 ---
