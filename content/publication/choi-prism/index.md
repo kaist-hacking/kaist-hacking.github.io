@@ -57,7 +57,7 @@ abstract: >-
   multi-team architecture with strategy-based patch generation and progressive code
   retrieval.
 publication: '*Proceedings of the 2026 International Symposium on Research in Attacks,
-  Intrusions and Defenses (RAID)*'
+  Intrusions and Defenses (RAID)* (To appear)'
 author_notes:
 - Equal contribution
 - Equal contribution

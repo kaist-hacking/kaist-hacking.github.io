@@ -15,8 +15,14 @@ weight: 15
 title: News
 
 ---
-* [30/05/2026] "Should Opt-Out Depend on Where You Live? Comparing Mobile Privacy Choices Across Jurisdictions" accepted to [HotPETS '26](https://petsymposium.org/2026/index.php)
+* [08/09/2026] Team 0x4b52 wins 2nd place at [DEF CON CTF 34 Finals](https://defcon.org/html/links/dc-ctf.html)!
+* [07/24/2026] Four members of our lab are named [Microsoft MSRC 2026 Most Valuable Researchers](https://ee.kaist.ac.kr/en/research-achieve/four-researchers-from-prof-insu-yuns-lab-named-microsoft-msrc-2026-most-valuable-researchers/)!
+* [07/10/2026] Prism is accepted to [RAID '26](https://raid2026.org/)!
+* [06/12/2026] QueryHouse is accepted to [ESORICS '26](https://sites.google.com/di.uniroma1.it/esorics2026/)!
+* [05/30/2026] "Should Opt-Out Depend on Where You Live? Comparing Mobile Privacy Choices Across Jurisdictions" accepted to [HotPETS '26](https://petsymposium.org/2026/index.php)
+* [05/22/2026] CTFusion is accepted to [the Agents in the Wild workshop at ICML '26](https://agentwild-workshop.github.io/icml2026/)!
 * [12/05/2025] RTCon is accepted to [NDSS '26](https://www.ndss-symposium.org/ndss2026/)
+* [09/03/2025] OTABase is accepted to [ACSAC '25](https://www.acsac.org/2025/)!
 * [08/21/2025] Two papers got accepted to [CCS '25](https://www.sigsac.org/ccs/CCS2025/)
 * [08/09/2025] Team Atlanta wins [AIxCC](https://aicyberchallenge.com/)!
 * [05/30/2025] LLFuzz is accepted to [USENIX Security '25](https://www.ieee-security.org/TC/SEC2025/index.html)!
