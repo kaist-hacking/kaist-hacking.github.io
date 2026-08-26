@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'QueryHouse: Cross-DBMS Differential Testing with LLM and Query Transpilation'
+title: 'QueryHouse: Cross-DBMS Differential Testing with LLM and Query Transpilation
+  (to appear)'
 subtitle: ''
 summary: ''
 authors:
@@ -40,5 +41,5 @@ publishDate: '2026-06-14T07:33:12.550494Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Proceedings of the 31st European Symposium on Research in Computer Security (ESORICS)* (To appear)'
+publication: '*Proceedings of the 31st European Symposium on Research in Computer Security (ESORICS)*'
 ---

@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Prism: A Multi-Team Orchestration of LLM Agents for Automatic Program Repair'
+title: 'Prism: A Multi-Team Orchestration of LLM Agents for Automatic Program Repair
+  (to appear)'
 subtitle: ''
 summary: ''
 authors:
@@ -57,7 +58,7 @@ abstract: >-
   multi-team architecture with strategy-based patch generation and progressive code
   retrieval.
 publication: '*Proceedings of the 2026 International Symposium on Research in Attacks,
-  Intrusions and Defenses (RAID)* (To appear)'
+  Intrusions and Defenses (RAID)*'
 author_notes:
 - Equal contribution
 - Equal contribution
