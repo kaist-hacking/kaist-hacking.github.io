@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://kaist-hacking.github.io/sitemap.xml
+Sitemap: https://hacking.kaist.ac.kr/sitemap.xml
