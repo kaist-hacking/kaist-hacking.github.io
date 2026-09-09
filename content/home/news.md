@@ -15,6 +15,7 @@ weight: 15
 title: News
 
 ---
+* [09/09/2026] PatchIsland is accepted to [ACSAC '26](https://www.acsac.org/2026/)!
 * [08/29/2026] MTEscape is accepted to [CCS '26](https://www.sigsac.org/ccs/CCS2026/index.html)!
 * [08/09/2026] Team 0x4b52 wins 2nd place at [DEF CON CTF 34 Finals](https://defcon.org/html/links/dc-ctf.html)!
 * [07/24/2026] Four members of our lab are named [Microsoft MSRC 2026 Most Valuable Researchers](https://ee.kaist.ac.kr/en/research-achieve/four-researchers-from-prof-insu-yuns-lab-named-microsoft-msrc-2026-most-valuable-researchers/)!
