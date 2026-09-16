@@ -15,7 +15,7 @@ weight: 15
 title: News
 
 ---
-* [09/16/2026] QueryHouse wins the Best Paper Runner-up Award at [ESORICS '26](https://sites.google.com/di.uniroma1.it/esorics2026/)!
+* [09/16/2026] QueryHouse wins the Best Paper Award Runner-up at [ESORICS '26](https://sites.google.com/di.uniroma1.it/esorics2026/)!
 * [09/09/2026] PatchIsland is accepted to [ACSAC '26](https://www.acsac.org/2026/)!
 * [08/29/2026] MTEscape is accepted to [CCS '26](https://www.sigsac.org/ccs/CCS2026/index.html)!
 * [08/09/2026] Team 0x4b52 wins 2nd place at [DEF CON CTF 34 Finals](https://defcon.org/html/links/dc-ctf.html)!
