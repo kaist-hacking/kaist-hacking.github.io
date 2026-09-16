@@ -42,4 +42,5 @@ publication_types:
 - '0'
 abstract: ''
 publication: '*Proceedings of the 31st European Symposium on Research in Computer Security (ESORICS)*'
+award: '**Best Paper Runner-up Award**'
 ---
