@@ -6,7 +6,7 @@ title: Juhyun Song
 # superuser: true
 profile: false
 
-role: Master '26, Samsung DS
+role: Master '26, Samsung Semiconductor
 weight: 2026
 
 # Highlight the author in author lists? (true/false)
