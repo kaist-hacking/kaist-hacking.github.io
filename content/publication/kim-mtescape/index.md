@@ -35,4 +35,5 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 33rd ACM Conference on Computer and Communications
   Security (CCS)*'
+award: '**Distinguished Paper Award**'
 ---
