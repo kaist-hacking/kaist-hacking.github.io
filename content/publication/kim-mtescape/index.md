@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'MTEscape: Bypassing Asynchronous Kernel MTE via Conventional Memory Corruption
-  Vulnerabilities (to appear)'
+  Vulnerabilities'
 subtitle: ''
 summary: ''
 authors:
@@ -35,5 +35,8 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 33rd ACM Conference on Computer and Communications
   Security (CCS)*'
+url_slides: pubs/2026/kim:mtescape-slides.pdf
+url_paper: pubs/2026/kim:mtescape.pdf
+url_code: https://github.com/kaist-hacking/MTEscape
 award: '**Distinguished Paper Award**'
 ---
